@@ -1,3 +1,4 @@
+package tests;
 
 public class Name {
 	static String first = "Theo";
