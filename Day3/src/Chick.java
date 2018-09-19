@@ -1,6 +1,6 @@
 public class Chick {
  private String name = "Fluffy";
- { System.out.println("setting field");} // de ce?
+ { System.out.println("setting field");} // de ce nu merge fara {}?
  public Chick() {
 	 name = "Tiny";
 	 System.out.println("setting constructor");
